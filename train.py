@@ -6,7 +6,7 @@ Thiết kế: train trên Cleveland (source domain), đánh giá trên:
   - Hungary / Switzerland / VA Long Beach (unseen target domains)
 
 Gộp từ train_single_bagging.py + train_boosting.py để in ĐÚNG MỘT
-bảng Baseline Matrix cho cả 6 model, đúng theo spec của project.
+bảng Baseline Matrix cho cả 6 model.
 """
 
 import sys
